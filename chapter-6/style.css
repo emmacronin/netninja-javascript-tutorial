@@ -1,0 +1,13 @@
+.error2 {
+    color: maroon;
+    border: solid 1px maroon;
+    padding: 20px;
+    background-color: tomato;
+}
+
+.success2 {
+    color: green;
+    border: solid 1px green;
+    padding: 20px;
+    background-color: greenyellow;
+}
